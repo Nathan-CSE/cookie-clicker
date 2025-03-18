@@ -6,4 +6,7 @@ I started on 22/05/2023 and got pretty into the game for a few months, as of tod
 I might pick this up as a side project to work on, I found some promising repo’s that let you self-host cookie clicker, I wonder if I could create a self-hosted instance of cookie clicker that I can access anywhere online? Maybe deploy it on vercel with my save game so I don’t have to manually create backups?
 
 ![My 2nd day playing (23/05/2023)](image.png)
-This was my 2nd day playing Cookie Clicker
+This was my 2nd day playing Cookie Clicker.
+
+![Latest snapshot (19/03/2025)](Capture.PNG)
+The latest snapshot of my save file (19/03/2025).
